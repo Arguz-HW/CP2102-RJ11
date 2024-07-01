@@ -1,5 +1,5 @@
 # CP2102-RJ11
-![alt text]([http://url/to/img.png](https://github.com/Arguz-HW/CP2102-RJ11/blob/main/Screenshot%202024-07-01%20154209.png))
+![alt text](https://raw.githubusercontent.com/Arguz-HW/CP2102-RJ11/main/Screenshot%202024-07-01%20154209.png)
 
 USB-TO-UART Programmer  with CP2102N
 Specs:
